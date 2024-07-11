@@ -9,7 +9,7 @@
       <corpname authfilenumber="(lccn)n85007390" source="naf">Andiron Club of New York City</corpname>
     </origination>
     <unitid>MC.19</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/1994</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">19.5 Linear Feet</extent>
       <extent altrender="carrier">in 32 boxes and 1 flat box</extent>
