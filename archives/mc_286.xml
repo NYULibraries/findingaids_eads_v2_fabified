@@ -9,7 +9,7 @@
       <corpname authfilenumber="(lccn)n79058487" source="naf">New York University</corpname>
     </origination>
     <unitid>MC.286</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/2825</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">130 Linear Feet</extent>
       <extent altrender="carrier">in 378 bound volumes and 198 boxes</extent>
