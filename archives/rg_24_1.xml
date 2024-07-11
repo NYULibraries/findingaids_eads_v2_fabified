@@ -9,7 +9,7 @@
       <corpname authfilenumber="(lccn)no93002872" rules="dacs" source="naf">New York University. College of Engineering</corpname>
     </origination>
     <unitid>RG.24.1</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/3395</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">1.60 Linear Feet</extent>
       <extent altrender="carrier">in 3 manuscript boxes and 1 folder in a shared box.</extent>
