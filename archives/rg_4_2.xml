@@ -9,7 +9,7 @@
       <corpname role="cre" rules="dacs" source="local">New York University. Bureau of Public Occasions</corpname>
     </origination>
     <unitid>RG.4.2</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/2212</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">16.73 Linear Feet</extent>
       <extent altrender="carrier">in 34 boxes</extent>

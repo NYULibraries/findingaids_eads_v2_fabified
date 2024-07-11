@@ -9,7 +9,7 @@
       <corpname rules="aacr" source="local">New York University. Office of the Chancellor and Executive Vice President</corpname>
     </origination>
     <unitid>RG.6.0</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/2226</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">38.5 Linear Feet</extent>
       <extent altrender="carrier">72 manuscript boxes</extent>
