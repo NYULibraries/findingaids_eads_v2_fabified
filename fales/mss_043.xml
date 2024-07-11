@@ -12,7 +12,7 @@
       <persname rules="dacs" source="naf">Paulson, Arvid</persname>
     </origination>
     <unitid>MSS.043</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/1627</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">8.5 Linear Feet</extent>
       <extent altrender="carrier">(21 boxes)</extent>
