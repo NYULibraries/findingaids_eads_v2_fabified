@@ -12,7 +12,7 @@
       <corpname rules="dacs" source="local">New York University. Office of the President</corpname>
     </origination>
     <unitid>RG.3.0.10</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/2118</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">134.50 Linear Feet</extent>
       <extent altrender="carrier">in 307 manuscript boxes, 4 flat boxes, 1 oversize flat box, and 1 flat-file folder.</extent>
