@@ -9,7 +9,7 @@
       <corpname authfilenumber="(lccn)n79058487" source="naf">New York University</corpname>
     </origination>
     <unitid>PHOTO.00001</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/2112</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">478 Linear Feet</extent>
       <extent altrender="carrier">in 478 boxes</extent>
