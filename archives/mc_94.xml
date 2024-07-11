@@ -9,7 +9,7 @@
       <corpname rules="dacs" source="local">Washington Square Association</corpname>
     </origination>
     <unitid>MC.94</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/2106</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">13.75 Linear Feet</extent>
       <extent altrender="carrier">in 45 boxes</extent>
