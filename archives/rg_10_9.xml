@@ -9,7 +9,7 @@
       <corpname rules="dacs" source="local">New York University. Office of the Treasurer</corpname>
     </origination>
     <unitid>RG.10.9</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/2124</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
       <extent altrender="carrier">in 6 boxes</extent>
