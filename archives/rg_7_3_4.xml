@@ -15,7 +15,7 @@
       <corpname rules="aacr" source="local">New York University. Office of Media Production</corpname>
     </origination>
     <unitid>RG.7.3.4</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/2245</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">221 Linear Feet</extent>
       <extent altrender="carrier">in 221 record cartons.</extent>
