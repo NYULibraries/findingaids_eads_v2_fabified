@@ -9,7 +9,7 @@
       <corpname rules="dacs" source="local">New York University. Office of the President</corpname>
     </origination>
     <unitid>RG.3.0.14</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/3437</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">12 websites</extent>
       <extent altrender="carrier">in 12 archived websites.</extent>
