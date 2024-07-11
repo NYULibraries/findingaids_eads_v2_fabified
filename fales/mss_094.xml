@@ -9,7 +9,7 @@
       <corpname authfilenumber="(lccn)n2007040399" source="naf">Judson Memorial Church (New York, N.Y.)</corpname>
     </origination>
     <unitid>MSS.094</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/1664</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">173 Linear Feet</extent>
       <extent altrender="carrier">in 136 boxes</extent>
