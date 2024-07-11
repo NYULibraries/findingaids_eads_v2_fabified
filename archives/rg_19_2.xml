@@ -12,7 +12,7 @@
       <corpname role="dnr" rules="dacs" source="local">New York University. Office of the Secretary</corpname>
     </origination>
     <unitid>RG.19.2</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/2144</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">4 Linear Feet</extent>
       <extent altrender="carrier">in 5 manuscript boxes, 2 flat file folders, 1 half manuscript box, 1 record carton, 1 folder in a shared box, and 3 audio recordings in shared boxes.</extent>
