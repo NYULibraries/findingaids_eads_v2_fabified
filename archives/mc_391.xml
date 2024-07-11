@@ -12,7 +12,7 @@
       <corpname role="dnr" rules="dacs" source="local">Courant Institute of Mathematical Sciences. Library</corpname>
     </origination>
     <unitid>MC.391</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/3481</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">15.10 Linear Feet</extent>
       <extent altrender="carrier">in 35 manuscript boxes</extent>

@@ -9,7 +9,7 @@
       <corpname role="fmo" rules="dacs" source="local">Courant Institute of Mathematical Sciences. Library</corpname>
     </origination>
     <unitid>MC.389</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/3469</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">1.5 linear feet</extent>
       <extent altrender="carrier">in 1 flat box</extent>
