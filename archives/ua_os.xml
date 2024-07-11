@@ -9,7 +9,7 @@
       <corpname rules="dacs" source="local">New York University Archives</corpname>
     </origination>
     <unitid>OS</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/2114</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">8 flat file cases</extent>
       <extent altrender="carrier">(plus 5 flat boxes and 87 oversize boxes)</extent>
