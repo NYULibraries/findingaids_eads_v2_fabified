@@ -9,7 +9,7 @@
       <corpname source="local">Beach Books</corpname>
     </origination>
     <unitid>MSS.005</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/1590</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
       <extent altrender="carrier">(1 Box)</extent>
