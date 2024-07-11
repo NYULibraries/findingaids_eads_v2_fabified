@@ -9,7 +9,7 @@
       <corpname authfilenumber="(lccn)n86835515" rules="dacs" source="naf">New York University. Libraries</corpname>
     </origination>
     <unitid>RG.38.0.2</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/2195</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">8 Linear Feet</extent>
       <extent altrender="carrier">in 5 record cartons and 6 manuscript boxes</extent>
