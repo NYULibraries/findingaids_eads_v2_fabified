@@ -9,7 +9,7 @@
       <corpname rules="dacs" source="local">New York University. Office of the Chancellor</corpname>
     </origination>
     <unitid>RG.3.0.3</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/2171</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">12.5 Linear Feet</extent>
     </physdesc>
