@@ -9,7 +9,7 @@
       <corpname authfilenumber="(lccn)no2007000252" source="naf">REPOhistory (Organization)</corpname>
     </origination>
     <unitid>MSS.113</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/1678</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">18 Linear Feet</extent>
       <extent altrender="carrier">in 18 boxes</extent>
