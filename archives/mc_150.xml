@@ -12,7 +12,7 @@
       <persname rules="dacs" source="naf">Courant, Richard, 1888-1972</persname>
     </origination>
     <unitid>MC.150</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/1964</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">33.5 Linear Feet</extent>
       <extent altrender="carrier">in 97 boxes</extent>
