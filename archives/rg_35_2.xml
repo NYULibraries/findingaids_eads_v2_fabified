@@ -9,7 +9,7 @@
       <corpname authfilenumber="(lccn)n86856162" rules="aacr" source="naf">New York University. Interactive Telecommunications Program</corpname>
     </origination>
     <unitid>RG.35.2</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/2184</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">20 Linear Feet</extent>
       <extent altrender="carrier">(19 Paige boxes)</extent>

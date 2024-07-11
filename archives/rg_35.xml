@@ -9,7 +9,7 @@
       <corpname rules="dacs" source="local">Tisch School of the Arts. Office of the Dean</corpname>
     </origination>
     <unitid>RG.35</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/2182</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">77 Linear Feet</extent>
     </physdesc>
