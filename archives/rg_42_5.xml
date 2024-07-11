@@ -15,7 +15,7 @@
       <corpname authfilenumber="(lccn)n79063275" role="dnr" source="naf">Grey Art Gallery &amp; Study Center</corpname>
     </origination>
     <unitid>RG.42.5</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/2219</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">107 boxes</extent>
     </physdesc>

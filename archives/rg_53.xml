@@ -12,7 +12,7 @@
       <corpname rules="dacs" source="local">New York University. School of Global Public Health</corpname>
     </origination>
     <unitid>RG.53</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/3361</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">6 websites</extent>
       <extent altrender="carrier">in 6 archived websites.</extent>
