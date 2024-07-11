@@ -9,7 +9,7 @@
       <corpname rules="dacs" source="local">New York University Archives</corpname>
     </origination>
     <unitid>MC.317</unitid>
-    <unitid type="aspace_uri">/repositories/6/resources/3266</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">96 Linear Feet</extent>
       <extent altrender="carrier">in 192 manuscript boxes</extent>
