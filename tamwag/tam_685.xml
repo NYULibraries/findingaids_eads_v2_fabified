@@ -12,7 +12,7 @@
       <corpname role="dnr" rules="dacs" source="local">Lunar New Year For All</corpname>
     </origination>
     <unitid>TAM.685</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/1240</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">5 Linear Feet</extent>
       <extent altrender="carrier">in 2 record cartons, 1 small flat box, 13 oversize flat files, and 1 oversize portfolio</extent>
