@@ -9,7 +9,7 @@
       <corpname authfilenumber="(lccn)n50068362" source="naf">Tamiment Library</corpname>
     </origination>
     <unitid>ALBA.GRAPHICS.001</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/287</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">234 items</extent>
     </physdesc>
