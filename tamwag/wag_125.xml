@@ -12,7 +12,7 @@
       <corpname authfilenumber="(lccn)n85809839" role="dnr" source="naf">Newspaper Guild of New York</corpname>
     </origination>
     <unitid>WAG.125</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/1387</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">552 Linear Feet</extent>
       <extent altrender="carrier">in 552 record cartons</extent>
