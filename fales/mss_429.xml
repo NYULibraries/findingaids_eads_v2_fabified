@@ -18,7 +18,7 @@
       <persname role="dnr" rules="dacs" source="local">Muñoz, Elena</persname>
     </origination>
     <unitid>MSS.429</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/2321</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">6.50 Linear Feet</extent>
       <extent altrender="carrier">in 9 manuscript boxes, 3 folders in a shared oversize flat box, and born digital physical carriers stored in 2 shared media boxes</extent>

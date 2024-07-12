@@ -12,7 +12,7 @@
       <persname authfilenumber="(lccn)no2010113123" role="dnr" source="naf">Pfahler, Kembra</persname>
     </origination>
     <unitid>MSS.425</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/2560</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">15.25 Linear Feet</extent>
       <extent altrender="carrier">in 17 manuscript boxes, 1 half manuscript box, 1 small flat box, 1 oversize flat box, 2 flat-file folders, 4 folders in a shared manuscript box, and 4 oversized folders in shared boxes.</extent>
