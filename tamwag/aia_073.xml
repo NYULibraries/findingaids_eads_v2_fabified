@@ -12,7 +12,7 @@
       <persname role="dnr" rules="dacs" source="local">Glynn, Gregory</persname>
     </origination>
     <unitid>AIA.073</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/76</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">2.5 Linear Feet</extent>
       <extent altrender="carrier">in 1 record carton, 3 manuscript box, and 1 oversize folder</extent>
