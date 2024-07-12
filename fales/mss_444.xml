@@ -9,7 +9,7 @@
       <persname rules="dacs" source="naf">Picano, Felice, 1944-</persname>
     </origination>
     <unitid>MSS.444</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/1900</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">3.25   Linear Feet</extent>
       <extent altrender="carrier">in 1 record cartons, 1 manuscript box, 2 half manuscript boxes, and 2 flat boxes</extent>
