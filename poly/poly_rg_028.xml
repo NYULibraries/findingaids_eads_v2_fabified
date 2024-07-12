@@ -9,7 +9,7 @@
       <corpname rules="dacs" source="naf">Polytechnic Institute of New York University</corpname>
     </origination>
     <unitid>RG.028</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/28</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">9 Cubic Feet</extent>
       <extent altrender="carrier">9 boxes</extent>
