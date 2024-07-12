@@ -12,7 +12,7 @@
       <persname role="dnr" rules="dacs" source="local">Carman, Curtis</persname>
     </origination>
     <unitid>MSS.594</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/3236</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">37 Linear Feet</extent>
       <extent altrender="carrier">in 44 manuscript boxes, 6 small flat boxes, 1 oversize flat box, 3 flat-file folders, 1 folder in a shared oversize flat box, 6 audiocassettes in a shared cassette box, 2 custom flat boxes, and born-digital carriers in a shared CD box.</extent>

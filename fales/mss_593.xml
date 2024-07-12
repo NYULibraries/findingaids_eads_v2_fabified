@@ -9,7 +9,7 @@
       <corpname rules="dacs" source="local">Dixon Place</corpname>
     </origination>
     <unitid>MSS.593</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/3235</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">8 websites</extent>
       <extent altrender="carrier">in 8 archived websites.</extent>
