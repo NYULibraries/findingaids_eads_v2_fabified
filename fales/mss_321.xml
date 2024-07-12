@@ -12,7 +12,7 @@
       <persname role="dnr" rules="dacs" source="local">Vaccaro, John</persname>
     </origination>
     <unitid>MSS.321</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/1828</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">8.25 Linear Feet</extent>
       <extent altrender="carrier">in 3 records cartons, 5 flat boxes, 4 manuscript boxes, 2 oversize flat boxes, 2 flat file folders, and 1 half manuscript box.</extent>

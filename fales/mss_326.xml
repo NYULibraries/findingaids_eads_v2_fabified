@@ -9,7 +9,7 @@
       <corpname rules="dacs" source="local">Flaherty International Film Seminar</corpname>
     </origination>
     <unitid>MSS.326</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/1832</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">105.5 Linear Feet</extent>
       <extent altrender="carrier">(70 boxes + roll storage)</extent>
