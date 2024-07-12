@@ -15,7 +15,7 @@
       <corpname authfilenumber="(lccn)n95037801" rules="dacs" source="naf">INTAR (Theatrical company : New York, N.Y.)</corpname>
     </origination>
     <unitid>MSS.413</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/1883</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">18.5 Linear Feet</extent>
       <extent altrender="carrier">in 38 manuscript boxes, 1 oversize folder, and 14 computer files.</extent>
