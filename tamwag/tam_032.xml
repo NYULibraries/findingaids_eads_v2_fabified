@@ -15,7 +15,7 @@
       <corpname authfilenumber="(lccn)n83029595" role="dnr" source="naf">Milwaukee Public Library</corpname>
     </origination>
     <unitid>TAM.032</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/662</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
       <extent altrender="carrier">(6 boxes)</extent>
