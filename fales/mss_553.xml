@@ -9,7 +9,7 @@
       <corpname authfilenumber="(lccn)n50071701" source="naf">Fales Library</corpname>
     </origination>
     <unitid>MSS.553</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/2748</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
       <extent altrender="carrier">in 18 flat-file folders and 8 custom flat boxes. </extent>
