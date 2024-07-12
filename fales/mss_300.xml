@@ -15,7 +15,7 @@
       <persname role="dnr" rules="dacs" source="local">Gossage, James D.</persname>
     </origination>
     <unitid>MSS.300</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/1814</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">10.25 Linear Feet</extent>
       <extent altrender="carrier">in 7 binders, 3 manuscript boxes, 1 half manuscript box, 1 oversize box, 2 flat-file folders, and 1 folder in shared housing</extent>
