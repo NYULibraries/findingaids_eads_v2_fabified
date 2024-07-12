@@ -12,7 +12,7 @@
       <corpname role="dnr" rules="dacs" source="local">Bidoun Projects</corpname>
     </origination>
     <unitid>MSS.399</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/2667</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
       <extent altrender="carrier">in 1 half manuscript box, 1 flat box, and 1 flat file folder.</extent>
