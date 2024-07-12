@@ -18,7 +18,7 @@
       <corpname role="dnr" rules="dacs" source="local">Howard Zinn Revocable Trust</corpname>
     </origination>
     <unitid>TAM.542</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/1106</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">86 Linear Feet</extent>
       <extent altrender="carrier">in 83 record cartons, 1 manuscript box, 1 CD box, 1 cassette box, 1 oversize flat box, 1 oversize poster box and 1 flat file drawer.</extent>
