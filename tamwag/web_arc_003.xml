@@ -9,7 +9,7 @@
       <corpname authfilenumber="(lccn)n50068362" source="naf">Tamiment Library</corpname>
     </origination>
     <unitid>WEB.ARC.003</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/1582</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">316 websites</extent>
     </physdesc>

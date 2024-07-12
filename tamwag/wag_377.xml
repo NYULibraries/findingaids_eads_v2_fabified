@@ -9,7 +9,7 @@
       <corpname rules="dacs" source="local">NYU Researchers United-UAW</corpname>
     </origination>
     <unitid>WAG.377</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/3494</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">1 websites</extent>
       <extent altrender="carrier">in 1 archived website</extent>
