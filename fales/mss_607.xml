@@ -42,7 +42,7 @@
       <persname rules="dacs" source="local">Tsai, Moonlynn</persname>
     </origination>
     <unitid>MSS.607</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/3364</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">53 websites</extent>
       <extent altrender="carrier">in 53 archived websites.</extent>
