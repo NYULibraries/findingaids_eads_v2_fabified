@@ -12,7 +12,7 @@
       <persname authfilenumber="(lccn)n81000630" role="dnr" rules="dacs" source="naf">Cannon, Steve, 1935-2019</persname>
     </origination>
     <unitid>MSS.198</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/1746</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">30 Linear Feet</extent>
       <extent altrender="carrier">in 9 record cartons, 25 manuscript boxes, 7 binders, 1 small flat box, 2 oversize flat boxes, 1 flat-file folder, 4 audiocassettes in a shared box, 1 file in a shared tall LP box, 18 born-digital carriers in two shared boxes, and 8 containers with unknown profiles.</extent>
