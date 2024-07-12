@@ -9,7 +9,7 @@
       <persname rules="dacs" source="local">Sham-Shackleton, Yan</persname>
     </origination>
     <unitid>MSS.396</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/1879</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">2.6 Linear Feet</extent>
       <extent altrender="carrier">in 4 boxes</extent>
