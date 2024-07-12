@@ -9,7 +9,7 @@
       <persname rules="dacs" source="local">Smith, Timothy Hartley</persname>
     </origination>
     <unitid>MSS.418</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/2469</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">21 Linear Feet</extent>
       <extent altrender="carrier">in 18 tall manuscript boxes, two oversize folders, two flat file folders, one manuscript box, four box binders, and three large boxes</extent>
