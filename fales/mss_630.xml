@@ -12,7 +12,7 @@
       <persname role="dnr" rules="dacs" source="local">Saul-Sena, Linda</persname>
     </origination>
     <unitid>MSS.630</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/3454</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">13.50 Linear Feet</extent>
       <extent altrender="carrier">in 31 manuscript boxes and 1 folder in a shared oversize flat box</extent>
