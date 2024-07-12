@@ -9,7 +9,7 @@
       <corpname authfilenumber="(lccn)nr2001039932" source="naf">Palladium (Nightclub)</corpname>
     </origination>
     <unitid>MSS.441</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/1897</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">2.5 Linear Feet</extent>
       <extent altrender="carrier">(2 boxes)</extent>
