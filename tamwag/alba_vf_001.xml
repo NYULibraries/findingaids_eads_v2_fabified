@@ -12,7 +12,7 @@
       <corpname authfilenumber="(lccn)n50068362" source="naf">Tamiment Library</corpname>
     </origination>
     <unitid>ALBA.VF.001</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/336</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">9.6 Linear Feet</extent>
       <extent altrender="carrier">in 6 record cartons, 6 manuscript boxes, two flat boxes, and one flat file. </extent>
