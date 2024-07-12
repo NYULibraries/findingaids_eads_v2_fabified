@@ -15,7 +15,7 @@
       <corpname rules="dacs" source="local">Jewschool</corpname>
     </origination>
     <unitid>TAM.820</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/3444</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">6 websites</extent>
       <extent altrender="carrier">in 6 archived websites.</extent>
