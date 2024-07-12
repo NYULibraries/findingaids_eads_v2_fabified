@@ -18,7 +18,7 @@
       <persname role="dnr" rules="dacs" source="local">Kirsch, Dorothy</persname>
     </origination>
     <unitid>MSS.585</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/3195</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
       <extent altrender="carrier">in 1 flat-file folder and 4 oversize folders stored in shared boxes</extent>
