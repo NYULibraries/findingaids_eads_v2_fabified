@@ -9,7 +9,7 @@
       <corpname authfilenumber="(lccn)n50068362" source="naf">Tamiment Library</corpname>
     </origination>
     <unitid>PE.016</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/486</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
       <extent altrender="carrier">(2 boxes)</extent>
