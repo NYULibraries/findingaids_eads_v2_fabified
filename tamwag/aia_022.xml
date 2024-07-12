@@ -9,7 +9,7 @@
       <corpname source="local">Archives of Irish America</corpname>
     </origination>
     <unitid>AIA.022</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/22</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">4.5 Linear Feet</extent>
       <extent altrender="carrier">in 4 record cartons, 1 half manuscript box, and 4 oversize folders</extent>
