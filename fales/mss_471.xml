@@ -12,7 +12,7 @@
       <corpname authfilenumber="(lccn)no2009019352" role="dnr" source="naf">PERFORMA (Organization)</corpname>
     </origination>
     <unitid>MSS.471</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/2352</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">44.5 Linear Feet</extent>
       <extent altrender="carrier">26 record cartons, 12 manuscript boxes, 9 flat boxes, 7 oversize flat boxes, and X flat-file folders</extent>
