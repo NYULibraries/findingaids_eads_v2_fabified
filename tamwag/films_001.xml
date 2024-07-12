@@ -12,7 +12,7 @@
       <corpname authfilenumber="(lccn)n50068362" source="naf">Tamiment Library</corpname>
     </origination>
     <unitid>FILMS.001</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/352</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">53 Linear Feet</extent>
       <extent altrender="carrier">in 24 record cartons, 227 film cans, 1 cassette box, 1 manuscript box, 1 flat box, and 1 card box</extent>
