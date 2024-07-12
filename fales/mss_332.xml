@@ -12,7 +12,7 @@
       <persname role="cre" rules="dacs" source="local">Neu, Jim</persname>
     </origination>
     <unitid>MSS.332</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/2601</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">22.03 Linear Feet</extent>
       <extent altrender="carrier">in 24 manuscript boxes, 1 half manuscript box, 6 cassette boxes, 4 record cartons, 1 oversized folder, 11 folders in a shared flat box, and 21 folders housed across 3 shared oversize boxes</extent>
