@@ -318,7 +318,7 @@
       <corpname rules="dacs" source="local">YARA + DAVINA</corpname>
     </origination>
     <unitid>TAM.798</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/3305</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">224 websites</extent>
       <extent altrender="carrier">in 224 archived websites.</extent>
