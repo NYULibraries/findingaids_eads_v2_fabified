@@ -9,7 +9,7 @@
       <corpname authfilenumber="(lccn)n50071701" role="col" source="naf">Fales Library</corpname>
     </origination>
     <unitid>MSS.310</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/1821</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">7.75 Linear Feet</extent>
       <extent altrender="carrier">in 18 boxes, 2 folders in a shared manuscript box and 1 folder in a shared flat box.</extent>
