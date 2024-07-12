@@ -15,7 +15,7 @@
       <corpname authfilenumber="(lccn)n82156010" role="dnr" source="naf">Franklin Furnace (Archive)</corpname>
     </origination>
     <unitid>MSS.206</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/1751</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">106.25 Linear Feet</extent>
       <extent altrender="carrier">in 102 record cartons, 8 manuscript boxes, 2 oversized flat boxes</extent>
