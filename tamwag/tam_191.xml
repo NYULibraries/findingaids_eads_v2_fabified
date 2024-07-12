@@ -21,7 +21,7 @@
       <persname role="dnr" rules="dacs" source="local">Yoder, Tracy</persname>
     </origination>
     <unitid>TAM.191</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/825</unitid>
+    
     <physdesc altrender="part">
       <extent altrender="materialtype spaceoccupied">311.25 Linear Feet</extent>
       <extent altrender="carrier">in 315 boxes</extent>
