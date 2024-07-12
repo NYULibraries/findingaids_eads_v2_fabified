@@ -9,7 +9,7 @@
       <corpname rules="dacs" source="local">Collective:Unconscious</corpname>
     </origination>
     <unitid>MSS.225</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/1764</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">18 Linear Feet</extent>
       <extent altrender="carrier">(18 boxes)</extent>
