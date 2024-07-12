@@ -9,7 +9,7 @@
       <persname rules="dacs" source="local">Science, Johnny, 1955-2007</persname>
     </origination>
     <unitid>MSS.268</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/1794</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">8.72 Linear Feet</extent>
       <extent altrender="carrier">in 14 boxes.</extent>
