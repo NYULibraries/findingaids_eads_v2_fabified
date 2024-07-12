@@ -9,7 +9,7 @@
       <persname rules="dacs" source="naf">Winslow, Kirk</persname>
     </origination>
     <unitid>MSS.317</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/2521</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">12 Linear Feet</extent>
       <extent altrender="carrier">in 11 records cartons, 1 flat box, and 2 oversize folders
