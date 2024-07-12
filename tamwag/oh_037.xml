@@ -9,7 +9,7 @@
       <persname role="dnr" rules="dacs" source="local">Drucker, Peter</persname>
     </origination>
     <unitid>OH.037</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/420</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
       <extent altrender="carrier">in 20 audio cassette tapes</extent>
