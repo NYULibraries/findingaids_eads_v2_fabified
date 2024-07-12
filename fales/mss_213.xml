@@ -9,7 +9,7 @@
       <persname rules="dacs" source="local">Dougherty, Peter</persname>
     </origination>
     <unitid>MSS.213</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/1756</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">12 Linear Feet</extent>
       <extent altrender="carrier">(16 boxes)</extent>
