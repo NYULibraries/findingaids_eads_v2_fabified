@@ -12,7 +12,7 @@
       <persname role="dnr" rules="aacr" source="naf">Goldstein, Malcolm, 1936-</persname>
     </origination>
     <unitid>MSS.350</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/1849</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">52.75 Linear Feet</extent>
       <extent altrender="carrier">in 54 boxes</extent>
