@@ -15,7 +15,7 @@
       <persname role="dnr" rules="dacs" source="local">Brown, Margy</persname>
     </origination>
     <unitid>TAM.825</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/3460</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">9.02 Gigabytes</extent>
       <extent altrender="carrier">in 81 computer files</extent>
