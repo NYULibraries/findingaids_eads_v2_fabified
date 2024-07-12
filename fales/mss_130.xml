@@ -9,7 +9,7 @@
       <corpname authfilenumber="(lccn)no2010149377" source="naf">Deutscher Liederkranz der Stadt New York</corpname>
     </origination>
     <unitid>MSS.130</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/1693</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">200 Linear Feet</extent>
       <extent altrender="carrier">in 208 boxes and 1 flat-file folder</extent>
