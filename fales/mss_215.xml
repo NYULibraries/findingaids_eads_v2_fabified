@@ -12,7 +12,7 @@
       <corpname authfilenumber="(lccn)n85186400" source="naf">Group Material (Firm : New York, N.Y.)</corpname>
     </origination>
     <unitid>MSS.215</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/1758</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">58 Linear Feet</extent>
       <extent altrender="carrier">in 23 record cartons, 9 manuscript boxes, 27 oversize flat boxes, 17 oversize flat file folders, 11 box binders, and 3 shoe boxes.</extent>
