@@ -15,7 +15,7 @@
       <corpname role="dnr" rules="dacs" source="local">O'Dwyer &amp; Bernstien</corpname>
     </origination>
     <unitid>AIA.009</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/10</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">21.75 Linear Feet</extent>
       <extent altrender="carrier">in 17 record cartons, 1 manuscript box, 2 oversize flat boxes, and 5 oversize folders.</extent>
