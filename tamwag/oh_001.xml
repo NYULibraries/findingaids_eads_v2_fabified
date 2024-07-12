@@ -27,7 +27,7 @@
       <persname role="dnr" rules="dacs" source="local">Weinstock, Louis, 1903-1994</persname>
     </origination>
     <unitid>OH.001</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/384</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">29.66 Linear Feet</extent>
       <extent altrender="carrier">in 5 record cartons, 8 card boxes, 21 cassette boxes, 7 manuscript boxes, 1 half manuscript box, and 224 other containers.</extent>

@@ -9,7 +9,7 @@
       <corpname authfilenumber="(lccn)n50068362" source="naf">Tamiment Library</corpname>
     </origination>
     <unitid>OH.002</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/385</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">63.91 Linear Feet</extent>
       <extent altrender="carrier">in 21 record cartons, 39 card/cassette boxes, 22 manuscript boxes, 5 half manuscript boxes, 1 media box, and 8 other containers.</extent>
