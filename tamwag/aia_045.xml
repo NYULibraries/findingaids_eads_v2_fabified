@@ -9,7 +9,7 @@
       <corpname rules="dacs" source="local">Irish echo</corpname>
     </origination>
     <unitid>AIA.045</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/49</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">27.08 Linear Feet</extent>
       <extent altrender="carrier">in 13 record cartons, 11 manuscript boxes, 1 half manuscript box, 3 oversize flat boxes, 1 oversized flat folder, and 8 card boxes.</extent>
