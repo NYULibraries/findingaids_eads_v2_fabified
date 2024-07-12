@@ -15,7 +15,7 @@
       <persname role="dnr" rules="dacs" source="local">Lally, Michael</persname>
     </origination>
     <unitid>MSS.361</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/2610</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">55 Linear Feet</extent>
       <extent altrender="carrier">in 88 manuscript boxes, 1 half manuscript box, 3 flat boxes, 2 custom flat boxes, 4 oversize flat boxes, 2 record cartons, and 3 flat-file folders</extent>
