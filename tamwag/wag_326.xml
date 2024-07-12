@@ -15,7 +15,7 @@
       <corpname authfilenumber="(lccn)n78095617" rules="aacr" source="naf">United States. Federal Bureau of Investigation</corpname>
     </origination>
     <unitid>WAG.326</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/1571</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">2.5 Linear Feet</extent>
       <extent altrender="carrier">in 1 record carton, 1 manuscript box, 1 half manuscript box, and 1 oversize flat box</extent>
