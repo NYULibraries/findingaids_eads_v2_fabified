@@ -15,7 +15,7 @@
       <persname role="dnr" rules="dacs" source="local">Pomerance, Moby</persname>
     </origination>
     <unitid>TAM.189</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/823</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">21.5 Linear Feet</extent>
       <extent altrender="carrier">in 44 boxes and 3 oversize folders in shared boxes.</extent>
