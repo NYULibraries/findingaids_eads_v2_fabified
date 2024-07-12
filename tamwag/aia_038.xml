@@ -9,7 +9,7 @@
       <corpname authfilenumber="(lccn)no2002000116" source="naf">Glucksman Ireland House</corpname>
     </origination>
     <unitid>AIA.038</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/42</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">7.4 Linear Feet</extent>
       <extent altrender="carrier">in 13 legal sized manuscript boxes, 1 half letter sized manuscript box, 1 letter sized manuscript box, 1 shared CD box, 1 shared flat box, and 1 shared media box</extent>
