@@ -15,7 +15,7 @@
       <persname role="dnr" rules="dacs" source="naf">Arai, Tomie, 1949-</persname>
     </origination>
     <unitid>MSS.439</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/2551</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">35 Linear Feet</extent>
       <extent altrender="carrier">in 39 manuscript boxes, 1 tall manuscript box, 1 record carton, 1 flat box, 6 oversize flat boxes, and 4 flat-file folders</extent>
