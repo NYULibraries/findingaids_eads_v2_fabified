@@ -12,7 +12,7 @@
       <corpname role="dnr" rules="dacs" source="local">Union Label and Service Trades Council of Greater New York and Long Island</corpname>
     </origination>
     <unitid>WAG.054</unitid>
-    <unitid type="aspace_uri">/repositories/2/resources/1318</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">27 Linear Feet</extent>
       <extent altrender="carrier">in 26 record cartons and 1 flat box.</extent>
