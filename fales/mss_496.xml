@@ -9,7 +9,7 @@
       <corpname role="col" rules="dacs" source="local">New York University. Libraries. Avery Fisher Center</corpname>
     </origination>
     <unitid>MSS.496</unitid>
-    <unitid type="aspace_uri">/repositories/3/resources/2414</unitid>
+    
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">646 websites</extent>
       <extent altrender="carrier">in 646 archived websites.</extent>
